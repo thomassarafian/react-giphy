@@ -2,6 +2,7 @@
 
 Simple react project to learn how to :
 - Use ```props``` and ```state```
+- Learn to work with ```react components```
 
 ## Scripts
 
